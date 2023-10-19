@@ -1,4 +1,4 @@
-#### 编程书籍的整理和收集
+#### การจัดและรวบรวมหนังสือการเขียนโปรแกรม
 
 <p align=''>
  <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
@@ -6,12 +6,12 @@
  <a href="https://www.zhihu.com/people/sencoed.com/activities"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-keke-green.svg?style=flat&colorA=009df2"></a>
 </p>
 
-当你迷茫的时候，书可以带你找到问题的答案，开阔自己的眼界，提升自己的认知，不断的前行。
+เมื่อคุณสับสน หนังสือสามารถช่วยคุณค้นหาคำตอบของคำถาม เปิดโลกทัศน์ให้กว้างขึ้น ปรับปรุงความเข้าใจ และก้าวไปข้างหน้าได้
 <p align="center">
 <img width="100%" align="center" src="images/1.jpg" />
 </p>
  
-书籍的目录:
+แคตตาล็อกหนังสือ:
      
 ####  AI与算法
   * [数学之美]()
